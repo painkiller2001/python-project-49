@@ -1,5 +1,4 @@
-def main():
-    print('Welcome to the Brain Games!')
+from brain_games.games.brain_games import main
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
