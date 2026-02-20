@@ -16,6 +16,4 @@ def game():
     random_element = progression[randint(0, len(progression))]
     progression[progression.index(random_element)] = '..'    
     
-    return progression, random_element
-
-
+    return ' '.join(str(i) for i in progression), random_element
