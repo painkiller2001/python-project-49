@@ -1,6 +1,7 @@
 from brain_games.cli import welcome_user
 
 MAX_POINTS = 3
+MESSAGE = ' is wrong answer ;(. Correct answer was '
 
 
 def run_game(game_module):
@@ -19,7 +20,7 @@ def run_game(game_module):
             print('Correct!')
             points += 1
         else:
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(f"'{user_answer}{MESSAGE}{correct_answer}'.")
             print(f"Let's try again, {user_name}!")
             return
     
