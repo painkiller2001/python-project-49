@@ -13,7 +13,7 @@ def game():
     for i in range(start, currentElement, step):
         progression.append(i)
     
-    random_element = progression[randint(0, len(progression) + 1)]
+    random_element = progression[randint(0, (len(progression) - 1))]
     progression[progression.index(random_element)] = '..'    
     
     return ' '.join(str(i) for i in progression), random_element
