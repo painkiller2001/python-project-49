@@ -43,9 +43,9 @@
 
 ## Пример игры:
 
-`calc`          - <script src="https://asciinema.org/a/vi16EMxGYhhIXnKj.js" id="asciicast-vi16EMxGYhhIXnKj" async="true"></script>
-`even`          - <script src="https://asciinema.org/a/NaufqzfH4PSKAJUu.js" id="asciicast-NaufqzfH4PSKAJUu" async="true"></script>
-`gcd`           - <script src="https://asciinema.org/a/8UlsOceGNmiDkIN5.js" id="asciicast-8UlsOceGNmiDkIN5" async="true"></script>
-`prime`         - <script src="https://asciinema.org/a/zUDj7XacmgwXCT9h.js" id="asciicast-zUDj7XacmgwXCT9h" async="true"></script>
-`progression`   - <script src="https://asciinema.org/a/eC87OEu8rHzqlnXP.js" id="asciicast-eC87OEu8rHzqlnXP" async="true"></script>
+`calc`          : <a href="https://asciinema.org/a/vi16EMxGYhhIXnKj" target="_blank"><img src="https://asciinema.org/a/vi16EMxGYhhIXnKj.svg" /></a>
+`even`          : <a href="https://asciinema.org/a/NaufqzfH4PSKAJUu" target="_blank"><img src="https://asciinema.org/a/NaufqzfH4PSKAJUu.svg" /></a>
+`gcd`           : <a href="https://asciinema.org/a/8UlsOceGNmiDkIN5" target="_blank"><img src="https://asciinema.org/a/8UlsOceGNmiDkIN5.svg" /></a>
+`prime`         : <a href="https://asciinema.org/a/zUDj7XacmgwXCT9h" target="_blank"><img src="https://asciinema.org/a/zUDj7XacmgwXCT9h.svg" /></a>
+`progression`   : <a href="https://asciinema.org/a/eC87OEu8rHzqlnXP" target="_blank"><img src="https://asciinema.org/a/eC87OEu8rHzqlnXP.svg" /></a>
 
